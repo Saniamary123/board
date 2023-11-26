@@ -9,3 +9,6 @@
     <form class="" action="task.html" method="post">
    <a href=""><button>New task</button></a><br><br>
   </form>
+   </center>
+</body>
+</html>
